@@ -8,3 +8,5 @@ A small project to create awareness for people to wear mask always due to covid-
  Machine learning library ml5js is used to get the posenet model provided by tensorflowjs.
 
 Live Demo [here](https://mahendran-narayanan.github.io/mask.html)
+
+To see more open source contributions for Covid-19, visit this [link](https://github.com/soroushchehresa/awesome-coronavirus)
